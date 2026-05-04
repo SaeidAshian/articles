@@ -16,4 +16,4 @@ Read the original article on Hashnode:
 
 Read the GitHub copy:
 
-[Leading Agents](./leading-agents.md)
+[Leading Agents](./leading-agent.md)
