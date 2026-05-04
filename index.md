@@ -12,7 +12,7 @@ A reflection about how IT leadership may change when AI agents become part of ou
 
 Read the original article on Hashnode:
 
-https://leadingagents.hashnode.dev/leading-agents
+[Article](https://leadingagents.hashnode.dev/leading-agents)
 
 Read the GitHub copy:
 
