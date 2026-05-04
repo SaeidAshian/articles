@@ -16,4 +16,4 @@ https://leadingagents.hashnode.dev/leading-agents
 
 GitHub Pages version:
 
-https://saeidashian.github.io/articles/leading-agents
+https://saeidashian.github.io/articles/leading-agent
